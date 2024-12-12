@@ -58,14 +58,14 @@ your study time and to measure your progress:
 </details>
 
 - **Your Computer**:
-  - [ ] 🥚 **File System Management**: You can create and organize a new folder
+  - [x] 🥚 **File System Management**: You can create and organize a new folder
         in your personal computer for the materials you will study at Emerging
         Talent.
 - **Visual Studio Code**:
-  - [ ] 🥚 You can open a folder in a new window
-  - [ ] 🥚 You can add a new file to your folder
-  - [ ] 🥚 You can add a new folder inside your folder
-  - [ ] 🥚 You can delete a file
+  - [x] 🥚 You can open a folder in a new window
+  - [x] 🥚 You can add a new file to your folder
+  - [x] 🥚 You can add a new folder inside your folder
+  - [x] 🥚 You can delete a file
   - [ ] 🥚 You can delete a folder
   - [ ] 🥚 You can create a new Markdown document with the `.md` extension
   - [ ] 🥚 You can write a Markdown document

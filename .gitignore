@@ -10,3 +10,5 @@ __pycache__
 *.excalidraw
 plann.txt
 exercises_with_notes
+.pre-commit-config.yaml
+.gitignore
